@@ -36,3 +36,31 @@ Develop SQL-based analytics to deliver detailed insights into:
 - **Sales Trends**
 
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.  
+
+---
+
+## About Me
+Hi! I’m Hüseyin, a recent Mathematics graduate with a strong passion for data, analytics, and building scalable data systems. Throughout my academic journey, I developed a deep interest in problem-solving, logical reasoning, and working with complex structures — all of which naturally led me toward the world of data engineering.
+I am currently focused on expanding my skills in:
+
+
+SQL & database design
+
+
+ETL/ELT pipelines
+
+
+Data modeling (Star Schema, Kimball)
+
+
+Python for data engineering
+
+
+Cloud technologies
+
+
+Modern data stack tools
+
+
+I’m motivated by turning raw data into clean, reliable, and analytics-ready datasets that drive insights. My GitHub is where I share my learning journey, personal projects, and hands-on work as I grow into a professional data engineer.
+Let’s build something awesome out of data! 
