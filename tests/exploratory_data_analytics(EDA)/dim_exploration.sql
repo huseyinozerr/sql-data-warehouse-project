@@ -1,4 +1,4 @@
-/*
+
 --DATABASE EXPLORATION
 
 --Explore all objects in the database 
@@ -22,7 +22,7 @@ subcategory,
 product_name
 FROM gold.dim_products
 ORDER BY 1,2,3
-*/
+
 --DATE EXPLORATION
 
 --Find the date of the first and last order
@@ -39,4 +39,5 @@ MIN(birthdate) AS oldest_birthdate,
 DATEDIFF(year,MIN(birthdate),GETDATE())AS oldest_customer,
 MAX(birthdate) AS youngest_birthdate,
 DATEDIFF(year,MAX(birthdate),GETDATE())AS youngest_customer
+
 FROM gold.dim_customers
